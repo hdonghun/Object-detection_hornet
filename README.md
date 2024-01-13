@@ -35,6 +35,7 @@ NOTION - https://www.notion.so/aaaea723cef0466a8cc6ab0ca1ded418
 <img width="1486" alt="image" src="https://github.com/hdonghun/Object-detection_hornet/assets/67058000/f5ae5e0b-0299-4ac0-992d-aa7f4d39387c">
 ![Uploading image.png…]()
 
+<h4>✨말벌 디텍딩 적용 영상</<h4>
 
 
 
