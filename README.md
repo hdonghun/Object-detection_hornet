@@ -33,7 +33,7 @@ NOTION - https://www.notion.so/aaaea723cef0466a8cc6ab0ca1ded418
 <img width="1490" alt="image" src="https://github.com/hdonghun/Object-detection_hornet/assets/67058000/c104b9f1-5ae4-4f2d-a031-b88878367fa8">
 <img width="1485" alt="image" src="https://github.com/hdonghun/Object-detection_hornet/assets/67058000/42a6ae96-00a1-4b89-a40e-fad30781b887">
 <img width="1486" alt="image" src="https://github.com/hdonghun/Object-detection_hornet/assets/67058000/f5ae5e0b-0299-4ac0-992d-aa7f4d39387c">
-![Uploading image.png…]()
+<img width="1487" alt="image" src="https://github.com/hdonghun/Object-detection_hornet/assets/67058000/e7eb6c99-e169-4103-b354-9db34fdc839a">
 
 <h4>✨말벌 디텍딩 적용 영상</<h4>
 [시연영상.Zip](https://github.com/hdonghun/Object-detection_hornet/files/13929159/default.Zip)
