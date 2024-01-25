@@ -8,6 +8,8 @@
 NOTION - https://www.notion.so/aaaea723cef0466a8cc6ab0ca1ded418
 
 <h4>✨프로젝트 PPT</<h4>
+  <details>
+  <summary>PPT</summary>
 <img width="1487" alt="image" src="https://github.com/hdonghun/Object-detection_hornet/assets/67058000/9684b05f-3f64-496c-9803-887cba1b706d">
 <img width="1486" alt="image" src="https://github.com/hdonghun/Object-detection_hornet/assets/67058000/c84eaf8a-8557-456f-8af4-f772435f23d3">
 <img width="1488" alt="image" src="https://github.com/hdonghun/Object-detection_hornet/assets/67058000/dc40a342-52f0-4fbf-91cd-577b55044252">
@@ -34,6 +36,9 @@ NOTION - https://www.notion.so/aaaea723cef0466a8cc6ab0ca1ded418
 <img width="1485" alt="image" src="https://github.com/hdonghun/Object-detection_hornet/assets/67058000/42a6ae96-00a1-4b89-a40e-fad30781b887">
 <img width="1486" alt="image" src="https://github.com/hdonghun/Object-detection_hornet/assets/67058000/f5ae5e0b-0299-4ac0-992d-aa7f4d39387c">
 <img width="1487" alt="image" src="https://github.com/hdonghun/Object-detection_hornet/assets/67058000/e7eb6c99-e169-4103-b354-9db34fdc839a">
+
+  </details>
+
 
 <h4>✨말벌 디텍딩 적용 영상</<h4>
 [시연영상.Zip](https://github.com/hdonghun/Object-detection_hornet/files/13929159/default.Zip)
