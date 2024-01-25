@@ -41,5 +41,7 @@ NOTION - https://www.notion.so/aaaea723cef0466a8cc6ab0ca1ded418
 <img width="1487" alt="image" src="https://github.com/hdonghun/Object-detection_hornet/assets/67058000/c81eb216-5a0f-4ed7-b82f-844438fa8154">
 <img width="1489" alt="image" src="https://github.com/hdonghun/Object-detection_hornet/assets/67058000/1e032e48-f91b-437a-9302-6094957b4b8f">
 <img width="1488" alt="image" src="https://github.com/hdonghun/Object-detection_hornet/assets/6705상</<h4>
+
+<h2>✨시연 영상</h2>
 [시연영상.Zip](https://github.com/hdonghun/Object-detection_hornet/files/13929159/default.Zip)
 
