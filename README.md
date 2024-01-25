@@ -1,11 +1,19 @@
 <h2>
-<div align="center"> 말벌 디텍팅을 통한 양봉업자들의 말벌로 인한 피해 감소 서비스 프로젝트 </div>
-<h4> Object Dectection 프로젝트 </h4>
+<div align="center"># 말벌 디텍팅을 통한 양봉업자들의 말벌로 인한 피해 감소 서비스 프로젝트
+</div>
+  <h4> Object Dectection 프로젝트 </h4>
 </h2>
+
+<h2>✨서비스 소개</h2>
+
+<h2>✨툴</h2>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 
 <h4>✨노션</<h4>
 <div></div>
 NOTION - https://www.notion.so/aaaea723cef0466a8cc6ab0ca1ded418
+
 
 <h4>✨프로젝트 PPT</<h4>
   <details>
@@ -36,8 +44,7 @@ NOTION - https://www.notion.so/aaaea723cef0466a8cc6ab0ca1ded418
 <img width="1485" alt="image" src="https://github.com/hdonghun/Object-detection_hornet/assets/67058000/42a6ae96-00a1-4b89-a40e-fad30781b887">
 <img width="1486" alt="image" src="https://github.com/hdonghun/Object-detection_hornet/assets/67058000/f5ae5e0b-0299-4ac0-992d-aa7f4d39387c">
 <img width="1487" alt="image" src="https://github.com/hdonghun/Object-detection_hornet/assets/67058000/e7eb6c99-e169-4103-b354-9db34fdc839a">
-
-  </details>
+</details>
 
 
 <h4>✨말벌 디텍딩 적용 영상</<h4>
