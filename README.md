@@ -4,26 +4,26 @@
   <h4> Object Dectection 프로젝트 </h4>
 </h2>
 
-<h2>✨서비스 소개</h2>
+<h4>✨서비스 소개</h4>
 말벌 디텍팅을 통한 양봉업자들의 말벌로 인한 피해 감소 서비스 "말벌 감지"는 AI기술을 활용하여 양봉업자들의 소중한 근로와 수확물을 보호합니다. 우리의 서비스는 말벌의 활동을 실시간으로 감지하고, 이를 효과적으로 제어함으로써 양봉업자들에게 안전한 작업 환경을 제공합니다.
 
-<h2>✨서비스의 가치</h2>
+<h4>✨서비스의 가치</h4>
 "벌감지가드"는 양봉업자들에게 안정적이고 안전한 작업 환경을 제공하여 생산성을 향상시키고 피해를 최소화합니다. 말벌로 인한 공격으로 인한 사망이나 다침을 예방하며, 생태 환경을 고려한 벌 관리 시스템을 통해 지속가능한 양봉업을 지원합니다.
 
-<h2>✨기술 스택</h2>
+<h4>✨기술 스택</h4>
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
-<h2>✨툴</h2>
+<h4>✨툴</h4>
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"><img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
 
-<h2>✨노션</<h2>
+<h4>✨노션</<h4>
 <div></div>
 NOTION - https://www.notion.so/aaaea723cef0466a8cc6ab0ca1ded418
 
 
-<h2>✨프로젝트 PPT</<h2>
+<h4>✨프로젝트 PPT</<h4>
   <details>
   <summary>PPT</summary>
 <img width="1487" alt="image" src="https://github.com/hdonghun/Object-detection_hornet/assets/67058000/9684b05f-3f64-496c-9803-887cba1b706d">
@@ -38,6 +38,6 @@ NOTION - https://www.notion.so/aaaea723cef0466a8cc6ab0ca1ded418
 <img width="1489" alt="image" src="https://github.com/hdonghun/Object-detection_hornet/assets/67058000/1e032e48-f91b-437a-9302-6094957b4b8f">
 <img width="1488" alt="image" src="https://github.com/hdonghun/Object-detection_hornet/assets/6705상</<h4>
 
-<h2>✨시연 영상</h2>
+<h4>✨시연 영상</h4>
 [시연영상.Zip](https://github.com/hdonghun/Object-detection_hornet/files/13929159/default.Zip)
 
