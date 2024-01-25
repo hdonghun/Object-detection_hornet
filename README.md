@@ -57,8 +57,3 @@ NOTION - https://www.notion.so/aaaea723cef0466a8cc6ab0ca1ded418
 <h4>✨말벌 디텍딩 적용 영상</<h4>
 [시연영상.Zip](https://github.com/hdonghun/Object-detection_hornet/files/13929159/default.Zip)
 
-
-
-
-
-
