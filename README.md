@@ -38,6 +38,6 @@ NOTION - https://www.notion.so/aaaea723cef0466a8cc6ab0ca1ded418
 <img width="1489" alt="image" src="https://github.com/hdonghun/Object-detection_hornet/assets/67058000/1e032e48-f91b-437a-9302-6094957b4b8f">
 <img width="1488" alt="image" src="https://github.com/hdonghun/Object-detection_hornet/assets/6705상</<h4>
 
-<h4>✨시연 영상</h4>
+<h4>✨프로토타입 시연 영상</h4>
 [시연영상.Zip](https://github.com/hdonghun/Object-detection_hornet/files/13929159/default.Zip)
 
